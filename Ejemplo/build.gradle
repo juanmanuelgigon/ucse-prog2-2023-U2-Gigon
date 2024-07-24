@@ -45,6 +45,7 @@ task runJmh(type: JavaExec) {
     main = 'org.openjdk.jmh.Main'
     classpath = sourceSets.main.runtimeClasspath
     args = ['-f', '1', '-wi', '5', '-i', '5', '-r', '5', '-t', '1', '.*Benchmark.*']
+
 }
 
 

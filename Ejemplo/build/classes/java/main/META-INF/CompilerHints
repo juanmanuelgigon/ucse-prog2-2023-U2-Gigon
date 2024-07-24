@@ -6,6 +6,3 @@ dontinline,*.*_thrpt_jmhStub
 inline,org/example/StreamBenchmark.parallelStream
 inline,org/example/StreamBenchmark.sequentialStream
 inline,org/example/StreamBenchmark.setup
-inline,org/openjdk/jmh/StreamBenchmark.parallelStream
-inline,org/openjdk/jmh/StreamBenchmark.sequentialStream
-inline,org/openjdk/jmh/StreamBenchmark.setup

@@ -1,4 +1,2 @@
 JMH S 27 org.example.StreamBenchmark S 64 org.example.jmh_generated.StreamBenchmark_parallelStream_jmhTest S 14 parallelStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
 JMH S 27 org.example.StreamBenchmark S 66 org.example.jmh_generated.StreamBenchmark_sequentialStream_jmhTest S 16 sequentialStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 31 org.openjdk.jmh.StreamBenchmark S 68 org.openjdk.jmh.jmh_generated.StreamBenchmark_parallelStream_jmhTest S 14 parallelStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 31 org.openjdk.jmh.StreamBenchmark S 70 org.openjdk.jmh.jmh_generated.StreamBenchmark_sequentialStream_jmhTest S 16 sequentialStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
