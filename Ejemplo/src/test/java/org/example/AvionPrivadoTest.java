@@ -12,4 +12,7 @@ class AvionPrivadoTest {
     void volar() {
         Assertions.assertEquals(43000, privado.volar(100));
     }
+    @Test
+    void getCombustible() {Assertions.assertEquals(180, privado.getConsumoCombustible());}
+
 }
