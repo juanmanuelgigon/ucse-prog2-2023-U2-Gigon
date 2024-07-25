@@ -29,6 +29,7 @@ public class Ej4 {
                 System.out.println("Termino primera la cuarta tarea y su resultado es: " + result);
             }
         });
+        primeraTerminada.join();
         executor.shutdown();
     }
 
